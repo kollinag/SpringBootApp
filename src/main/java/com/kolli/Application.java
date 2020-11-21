@@ -17,6 +17,10 @@ public class Application {
 		//hello stash is really working fine
 	}
 	
+
+public void kolli(){
+System.out.println("hello nagarjuna how are you");
+}
 	
 	@Bean
 	public PasswordEncryptor getInstance() {
